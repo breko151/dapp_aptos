@@ -1,0 +1,16 @@
+[package]
+name = "eco_trecks"
+version = "1.0.0"
+authors = ["Pablo Suárez"]
+
+[addresses]
+eco_trecks_addr = '2bfb36850ad5ab9f925f92f3cedb7362efa64b58ae673fd06ae035d8f20ff3c6'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
