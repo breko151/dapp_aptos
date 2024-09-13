@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aptos-labs/wallet-adapter-ant-design": "^3.0.13",
+    "petra-plugin-wallet-adapter": "^0.4.5"
+  }
+}
